@@ -1,0 +1,43 @@
+{
+  "name": "Desert Bloom Initiative - Fighting Desertification",
+  "short_name": "Desert Bloom",
+  "description": "Desert Bloom Initiative is a committed organization dedicated to combating desertification and transforming barren lands into thriving ecosystems. Through research, community engagement, partnerships, and practical projects, we strive for a greener, more sustainable future. Join us in our fight against desertification.",
+  "theme_color": "#a73824",
+  "background_color": "#a73824",
+  "display": "fullscreen",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait",
+  "display_override": [
+    "window-control-overlay",
+    "fullscreen",
+    "standalone",
+    "browser"
+  ],
+  "icons": [
+    {
+      "src": "favicon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "favicon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
