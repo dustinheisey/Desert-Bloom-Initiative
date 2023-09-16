@@ -376,7 +376,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -386,7 +386,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -396,7 +396,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -1185,7 +1185,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -1195,7 +1195,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -1205,7 +1205,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -1272,7 +1272,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -1282,7 +1282,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
@@ -1292,7 +1292,7 @@ module.exports = {
               style: {
                 theme: "",
               },
-              img: { src: "", alt: "" },
+              img: { src: "wave.png", alt: "wave" },
               overline: "",
               headline: "",
               body: "",
