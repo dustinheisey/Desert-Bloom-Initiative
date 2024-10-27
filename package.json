@@ -7,7 +7,7 @@
     "assets": "svgo -f ./public/svg -o ./_site/svg && pwa-asset-generator ./public/favicon.svg ./_site/favicon --opaque false --favicon --type png --index && pwa-asset-generator ./public/favicon.svg ./_site/favicon --background '#a73824' --padding '20%' --icon-only && pwa-asset-generator ./public/favicon.svg ./_site/favicon --background '#a73824' --splash-only --type png --padding '20%'"
   },
   "dependencies": {
-    "@dh253/nds": "^0.5.0",
+    "@dh253/nds": "^0.6.0",
     "pwa-asset-generator": "^6.3.1"
   }
 }
